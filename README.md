@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @morgan-vanv (Morgan Van Valkenburgh)
-- 🌱 I’m currently studying Physics & Applied Mathematics at Ohio University, as well as self-teaching myself Computer Science & Software Engineering
-- 💞️ I’m looking to collaborate on more open source projects, as well as pursuing applications that take advantage of my Math background
-- 📫 How to reach me ... LinkedIn! as well as any listed contact info on profile
+👋 Hi, I’m Morgan Van Valkenburgh (@morgan-vanv)
 
-I'm going to update this more in the future
+🎓 Studied Physics & Applied Mathematics @ Ohio University (as well as some Computer Science)
+
+💼 Currently Employed as a Software Engineer @ The Home Depot in Supply Chain Data & Analytics
+
+⌨️ Employed for Angular, SpringBoot, PostreSQL, and Google Cloud -- but my true love is Python 💖
+
+🔗 Personal Website Link (http://www.morganvanv.com/)
+
+📫 Looking to reach me? Try my LinkedIn, or any of my other listed contact information on either profile.
+
+_Even if it's not professional: don't hesitate to reach out! I'm always looking for people to talk shop and collaborate with._
+
 <!---
 morgan-vanv/morgan-vanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
