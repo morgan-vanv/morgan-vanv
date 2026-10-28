@@ -18,7 +18,6 @@ Software engineer. Physics nerd. Cincinnati, Ohio.<br>
 - 💼 Software Engineer at **The Home Depot**, in Supply Chain Data & Analytics
 - 🎓 Studied **Physics & Applied Mathematics** at Ohio University, with some Computer Science on the side
 - 🔭 Former undergrad research assistant on the [MOLLER Experiment](https://moller.jlab.org/) at Jefferson Lab
-- 🐈 Quality assurance provided by Ada, who is the light of my life and the bane of my existence
 
 ## What I work with
  
@@ -32,7 +31,7 @@ Software engineer. Physics nerd. Cincinnati, Ohio.<br>
  
 ### 🌌 [morganvanv.com](https://morganvanv.com)
  
-My personal site, rebuilt after I got into the IndieWeb, the Web Revival, and neocities. It used to be a polite portfolio. Now it's a dark little corner of the internet where:
+My personal site, rebuilt after I got into the IndieWeb, the Web Revival, and neocities. Now it is slightly more interesting, and is functionally my replacement for social media:
  
 - the sky behind every page is the **real sky**, drawn from actual star catalogs and astronomy math, with the Moon in its real phase
 - a light is left on in the farmhouse after dark, and there's a campfire next to it
