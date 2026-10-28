@@ -3,8 +3,7 @@ Morgan Van Valkenburgh
 
 a real human man
 
-Software engineer. Physics nerd. Cincinnati, Ohio.<br> I move supply chain data around for a living and look up at the sky for fun.
-
+Software engineer. Physics nerd. Cincinnati, Ohio.<br>
 morganvanv.com · LinkedIn · Say hi
 
 <a href="https://morganvanv.com"><img src="https://morganvanv.com/88x31.gif" width="88" height="31" alt="morganvanv.com" /></a>
