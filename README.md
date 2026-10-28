@@ -1,18 +1,51 @@
-👋 Hi, I’m Morgan Van Valkenburgh (@morgan-vanv)
+<div align="center">
+Morgan Van Valkenburgh
 
-🎓 Studied Physics & Applied Mathematics @ Ohio University (as well as some Computer Science)
+a real human man
 
-💼 Currently Employed as a Software Engineer @ The Home Depot in Supply Chain Data & Analytics
+Software engineer. Physics nerd. Cincinnati, Ohio.<br> I move supply chain data around for a living and look up at the sky for fun.
 
-⌨️ Employed for Angular, SpringBoot, PostreSQL, and Google Cloud -- but my true love is Python 💖
+morganvanv.com · LinkedIn · Say hi
 
-🔗 Personal Website Link (http://www.morganvanv.com/)
+<a href="https://morganvanv.com"><img src="https://morganvanv.com/88x31.gif" width="88" height="31" alt="morganvanv.com" /></a>
 
-📫 Looking to reach me? Try my LinkedIn, or any of my other listed contact information on either profile.
+</div> <br>
+The short version
+💼 Software Engineer at The Home Depot, in Supply Chain Data & Analytics
+🎓 Studied Physics & Applied Mathematics at Ohio University, with some Computer Science on the side
+🔭 Former undergrad research assistant on the MOLLER Experiment at Jefferson Lab
+🐈 Quality assurance provided by Ada, who is the light of my life and the bane of my existence
+What I work with
+	
+Pays the bills	Angular · Spring Boot · PostgreSQL · Google Cloud
+True love	Python 💖
+After hours	TypeScript · Angular · Three.js · Vite
+Things I've made
+🌌 morganvanv.com
 
-_Even if it's not professional: don't hesitate to reach out! I'm always looking for people to talk shop and collaborate with._
+My personal site, rebuilt after I got into the IndieWeb, the Web Revival, and neocities. It used to be a polite portfolio. Now it's a dark little corner of the internet where:
 
-<!---
-morgan-vanv/morgan-vanv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+the sky behind every page is the real sky, drawn from actual star catalogs and astronomy math, with the Moon in its real phase
+a light is left on in the farmhouse after dark, and there's a campfire next to it
+you can name a star (a real one, and I'll see it)
+you navigate with the arrow keys, which are listed in my humans.txt under "Standards"
+there are no cookies, and the Lighthouse score is on display like a dare
+
+Built with Angular, TypeScript, and, per the credits, a mild amount of spite. Source is right here.
+
+🏰 Valkenburg Castle: The Heir's Return
+
+A turn-based extraction crawler for the browser, inspired by Task Force Games' 1980 Valkenburg Castle. Take contracts, come back alive. If Keven falls, Valkenburg stays dark. TypeScript, Three.js, Vite. Play it or read the code.
+
+Off the clock
+
+Music and podcasts, tinkering with tech, Old School RuneScape, vinyl, photography (astrophotography when the clouds cooperate), and cycling on occasion. Most of it ends up live on the /now page, if you want to see what I'm listening to or what my OSRS character is doing right this minute.
+
+Talk to me
+
+Professional or not, don't hesitate to reach out. I'm always looking for people to talk shop and collaborate with.
+
+🌐 morganvanv.com has a box where you can ask me something, suggest a subtitle for the front page, or leave an anonymous note
+💬 LinkedIn
+✉️ website@morganvanv.com
+<br> <div align="center"> <sub>this README is currently testing in production</sub> </div> <!-- morgan-vanv/morgan-vanv is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
