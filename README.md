@@ -1,4 +1,5 @@
 <div align="center">
+ 
 # Morgan Van Valkenburgh
  
 **a real human man**
@@ -11,12 +12,14 @@ Software engineer. Physics nerd. Cincinnati, Ohio.<br>
  
 </div>
 <br>
+
 ## The short version
  
 - 💼 Software Engineer at **The Home Depot**, in Supply Chain Data & Analytics
 - 🎓 Studied **Physics & Applied Mathematics** at Ohio University, with some Computer Science on the side
 - 🔭 Former undergrad research assistant on the [MOLLER Experiment](https://moller.jlab.org/) at Jefferson Lab
 - 🐈 Quality assurance provided by Ada, who is the light of my life and the bane of my existence
+
 ## What I work with
  
 | | |
