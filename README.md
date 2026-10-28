@@ -37,8 +37,8 @@ My personal site, rebuilt after I got into the IndieWeb, the Web Revival, and ne
 - a light is left on in the farmhouse after dark, and there's a campfire next to it
 - you can name a star (a real one, and I'll see it)
 - you navigate with the **arrow keys**, which are listed in my `humans.txt` under "Standards"
-- there are no cookies, and the Lighthouse score is on display like a dare
-Built with Angular, TypeScript, and, per the credits, a mild amount of spite. [Source is right here](https://github.com/morgan-vanv/morganvanv.com).
+- there are no cookies, no trackers, and no evil algorithms
+Built with Angular, and TypeScript. [Source is right here](https://github.com/morgan-vanv/morganvanv.com).
  
 ### 🏰 [Valkenburg Castle: The Heir's Return](https://morgan-vanv.github.io/Valkenburg-Castle/)
  
